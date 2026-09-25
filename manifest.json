@@ -1,0 +1,266 @@
+{
+  "target": "https://aynostore.shop",
+  "ip": "144.79.249.117",
+  "started": "2026-09-26 04:51:39",
+  "pages": [
+    {
+      "url": "https://aynostore.shop",
+      "file": "index.html",
+      "type": "PRODUCT",
+      "status": 200,
+      "size_kb": 729.37,
+      "lines": 12307,
+      "forms": [],
+      "server": "Apache",
+      "ct": "text/html; charset=utf-8"
+    }
+  ],
+  "css": [
+    {
+      "file": "index.html_inline_1.css",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_2.css",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_3.css",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_4.css",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_5.css",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "all.min.css",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css",
+      "type": "external"
+    }
+  ],
+  "js": [
+    {
+      "file": "index.html_inline_1.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_2.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_3.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_4.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_5.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_6.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_7.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_8.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_9.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_10.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_11.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_12.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_13.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_14.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_15.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_16.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    },
+    {
+      "file": "index.html_inline_17.js",
+      "type": "inline",
+      "from": "https://aynostore.shop"
+    }
+  ],
+  "images": [
+    {
+      "file": "1679248787Nagad-Logo.png",
+      "url": "https://freelogopng.com/images/all_img/1679248787Nagad-Logo.png",
+      "size": "24.0KB"
+    },
+    {
+      "file": "number_icon.jpg",
+      "url": "https://aynostore.shop/number_icon.jpg",
+      "size": "103.0KB"
+    },
+    {
+      "file": "file-00000000a70c71fb89c0e609e44bbb65.png",
+      "url": "https://i.ibb.co.com/VWdhwtsr/file-00000000a70c71fb89c0e609e44bbb65.png",
+      "size": "398.6KB"
+    },
+    {
+      "file": "6246632270059999077_121.jpg",
+      "url": "https://aynostore.shop/6246632270059999077_121.jpg",
+      "size": "79.9KB"
+    },
+    {
+      "file": "usdt-bep20.png",
+      "url": "https://fxmeta5ai.com/public/web/img/usdt-bep20.png",
+      "size": "7.1KB"
+    },
+    {
+      "file": "banner2.jpg",
+      "url": "https://aynostore.shop/banner2.jpg",
+      "size": "544.3KB"
+    },
+    {
+      "file": "banner3.jpg",
+      "url": "https://aynostore.shop/banner3.jpg",
+      "size": "489.7KB"
+    },
+    {
+      "file": "dutch-bangla-rocket-Logo-Vector.svg-.png",
+      "url": "https://vectorseek.com/wp-content/uploads/2024/01/dutch-bangla-rocket-Logo-Vector.svg-.png",
+      "size": "21.6KB"
+    },
+    {
+      "file": "proxy_icon.jpg",
+      "url": "https://aynostore.shop/proxy_icon.jpg",
+      "size": "729.4KB"
+    },
+    {
+      "file": "refer_hero.jpg",
+      "url": "https://aynostore.shop/refer_hero.jpg?v=1786940866471",
+      "size": "653.3KB"
+    },
+    {
+      "file": "mail_icon.jpg",
+      "url": "https://aynostore.shop/mail_icon.jpg",
+      "size": "467.7KB"
+    },
+    {
+      "file": "vpn_icon.jpg",
+      "url": "https://aynostore.shop/vpn_icon.jpg",
+      "size": "729.4KB"
+    },
+    {
+      "file": "binance_logo.png",
+      "url": "https://crystalpng.com/wp-content/uploads/2025/03/binance_logo.png",
+      "size": "17.9KB"
+    },
+    {
+      "file": "asset_2690a41f.bin",
+      "url": "https://ui-avatars.com/api/?name=Guest&background=E0E7FF&color=3730A3&size=100",
+      "size": "0.4KB"
+    },
+    {
+      "file": "OIP.oSeS4AHCyKsCimpax6Ee8AHaHa",
+      "url": "https://www.bing.com/th/id/OIP.oSeS4AHCyKsCimpax6Ee8AHaHa?w=193&h=193&c=8&rs=1&qlt=90&o=6&pid=ImgAns&rm=2",
+      "size": "5.7KB"
+    },
+    {
+      "file": "banner1.jpg",
+      "url": "https://aynostore.shop/banner1.jpg",
+      "size": "439.5KB"
+    }
+  ],
+  "svg": [],
+  "fonts": [
+    {
+      "file": "fa-regular-400.woff2",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.woff2",
+      "size": "24.9KB"
+    },
+    {
+      "file": "fa-solid-900.woff2",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.woff2",
+      "size": "152.8KB"
+    },
+    {
+      "file": "fa-brands-400.ttf",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.ttf",
+      "size": "118.5KB"
+    },
+    {
+      "file": "fa-v4compatibility.woff2",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.woff2",
+      "size": "4.7KB"
+    },
+    {
+      "file": "fa-solid-900.ttf",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-solid-900.ttf",
+      "size": "168.0KB"
+    },
+    {
+      "file": "fa-brands-400.woff2",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-brands-400.woff2",
+      "size": "114.6KB"
+    },
+    {
+      "file": "fa-v4compatibility.ttf",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-v4compatibility.ttf",
+      "size": "5.0KB"
+    },
+    {
+      "file": "fa-regular-400.ttf",
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/webfonts/fa-regular-400.ttf",
+      "size": "26.4KB"
+    }
+  ],
+  "docs": [],
+  "media": [],
+  "assets": [],
+  "finished": "2026-09-26 04:51:50"
+}
