@@ -1,0 +1,13 @@
+
+                        @keyframes slowZoom {
+                            0% { transform: scale(1); }
+                            50% { transform: scale(1.08); }
+                            100% { transform: scale(1); }
+                        }
+                        @keyframes shimmer {
+                            0% { transform: translateX(-150%) skewX(-15deg); }
+                            100% { transform: translateX(150%) skewX(-15deg); }
+                        }
+                        .animate-slow-zoom { animation: slowZoom 15s ease-in-out infinite; }
+                        .animate-shimmer { animation: shimmer 3s infinite; }
+                    

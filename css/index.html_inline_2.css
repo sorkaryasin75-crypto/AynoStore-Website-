@@ -1,0 +1,26 @@
+
+        html.dark-mode {
+            filter: invert(1) hue-rotate(180deg);
+        }
+
+        html.dark-mode img,
+        html.dark-mode video,
+        html.dark-mode [style*="background-image"],
+        html.dark-mode .no-invert {
+            filter: invert(1) hue-rotate(180deg);
+        }
+
+        /* Hide Google Translate UI */
+        .skiptranslate iframe,
+        .goog-te-banner-frame {
+            display: none !important;
+        }
+
+        body {
+            top: 0 !important;
+        }
+
+        #google_translate_element {
+            display: none !important;
+        }
+    
